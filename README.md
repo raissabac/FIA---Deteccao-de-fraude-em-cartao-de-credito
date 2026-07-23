@@ -10,7 +10,7 @@
 - Filipe Ciríaco Marcelino do Nascimento - @VilefilipeDCOMP
 
 ## Fonte dos Dados
-Os dados utilizados neste projeto são provenientes do Kaggle, especificamente do dataset "Credit Card Fraud Detection" (mlg-ulb/creditcardfraud). Este dataset contém transações realizadas por cartões de crédito em setembro de 2013 por portadores europeus, caracterizado por ser um conjunto de dados altamente desbalanceado.
+Os dados utilizados neste projeto são provenientes do Kaggle, especificamente do dataset "Credit Card Fraud Detection" ([mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)). Este dataset contém transações realizadas por cartões de crédito em setembro de 2013 por portadores europeus, caracterizado por ser um conjunto de dados altamente desbalanceado.
 
 ## Tipo da Tarefa
 Trata-se de uma tarefa de Classificação Binária, onde o objetivo é classificar cada transação em uma de duas classes:

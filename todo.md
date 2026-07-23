@@ -21,13 +21,13 @@
 - [ ] Todas as informações **interpretadas** (não só `head()`, `info()`, `describe()`)
 
 ### 5.3 Análise exploratória
-- [ ] Histogramas (quando pertinente)
-- [ ] Boxplots (quando pertinente)
+- [-] Histogramas (quando pertinente)
+- [-] Boxplots (quando pertinente)
 - [ ] Gráficos de dispersão (quando pertinente)
-- [ ] Tabelas de frequência (quando pertinente)
-- [ ] Medidas de localidade e dispersão
+- [-] Tabelas de frequência (quando pertinente)
+- [X] Medidas de localidade e dispersão
 - [X] Correlações entre atributos
-- [ ] Relações entre atributos e o alvo
+- [X] Relações entre atributos e o alvo
 - [ ] Cada figura/tabela acompanhada de explicação/interpretação
 
 ## Pessoa 2
