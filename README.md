@@ -47,7 +47,7 @@ Ele atingiu uma Média de Precisão (Average Precision) de aproximadamente 0.80 
 - Falsos Negativos (Fraudes que passaram despercebidas): 20
 
 ## Link do Vídeo
-[Link]
+[Link](https://drive.google.com/file/d/1JaVyH17cvcU4EWzG1jOKfwQ36_8hKkEx/view?usp=sharing)
 
 ## Divisão das Contribuições
 - **Osanyo Victor Bevitori Nascimento**: Identificação e descrição do problema, compreensão dos dados e análise exploratória.
