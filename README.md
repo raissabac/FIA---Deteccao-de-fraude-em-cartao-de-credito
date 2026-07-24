@@ -2,6 +2,7 @@
 
 ## Título e Objetivo
 **Título:** Detecção de Fraude em Cartão de Crédito
+
 **Objetivo:** Desenvolver um modelo de Inteligência Artificial capaz de detectar se uma transação de cartão de crédito é legítima ou fraudulenta.
 
 ## Integrantes
